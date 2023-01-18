@@ -18,5 +18,5 @@ Sinta-se a vontade para me contactar através dos links abaixo:
 ![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-pilla&layout=compact)](https://github.com/bruno-pilla/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunopilla&layout=compact)](https://github.com/brunopilla/github-readme-stats)
 
