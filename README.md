@@ -1,6 +1,6 @@
 ## Olá pessoal :wink:
 
-Meu nome é Bruno, sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou estudando programação com foco em Back-end na Cubos Academy e desenvolvendo projetos com javascript utilizando Node.js e banco de dados PostgreSQL. Tambem gosto de aprender outras linguagens como Java e de vez em quando me aventuro com HTML e CSS.
+Meu nome é Bruno, sou formado em Análise e Desenvolvimento de Sistemas e atualmente atuo como analista desenvolvedor utitlizando a linguagem ABL Progress. Tenho também desenvolvido APIs com javascript utilizando Node.js e banco de dados PostgreSQL. Tambem gosto de aprender outras linguagens como Java e de vez em quando me aventuro com HTML e CSS.
 Sinta-se a vontade para me contactar através dos links abaixo:
 
 ---
